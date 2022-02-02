@@ -1,2 +1,5 @@
 # practice1-CadeBalvanz
-tips to working with git and github
+Name: cade Balvanz
+Field of Study: Stasitics with Data Science minor
+3 main activites: Work, Playing Basketball, and Playing Video Games
+3 tools for organization: Canvas to-do list, my phone, and my calendar
